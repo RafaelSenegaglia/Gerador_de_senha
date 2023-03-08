@@ -2,7 +2,7 @@
 
 * O fóco deste projeto é práticar JavaScript ⭐
 
-Neste projeto você terá gerar uma senha aleatória.
+Neste projeto você terá gerar uma senha aleatória..
 
 * <h3> Tecnologia utilizada: </h3>
 
